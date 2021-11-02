@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.exe
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.deps.json
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.json
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.dll
+C:\Users\USER\Desktop\Projects\C#\Payroll\bin\Debug\netcoreapp3.1\Payroll.pdb
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.dll
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.pdb
+C:\Users\USER\Desktop\Projects\C#\Payroll\obj\Debug\netcoreapp3.1\Payroll.genruntimeconfig.cache
